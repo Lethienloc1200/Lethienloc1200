@@ -10,9 +10,10 @@
 
 ### Connect with me:
 <br />
-<img href="lethienloc1200.github.io" src="https://img.icons8.com/external-kmg-design-outline-color-kmg-design/50/000000/external-web-internet-marketing-kmg-design-outline-color-kmg-design-4.png"/>
-<img align="left" src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"/>
+<a  href="lethienloc1200.github.io"><img src="https://img.icons8.com/external-kmg-design-outline-color-kmg-design/30/000000/external-web-internet-marketing-kmg-design-outline-color-kmg-design-4.png"/><a/>
+<a> <img align="left" src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"/><a/>
 
+<br />
 <br />
 ### Languages and Tools:
 <br />
