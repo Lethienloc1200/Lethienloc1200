@@ -9,9 +9,8 @@
 
 ### Connect with me:
 <a  href="lethienloc1200.github.io"><img src="https://img.icons8.com/external-kmg-design-outline-color-kmg-design/32/000000/external-web-big-data-kmg-design-outline-color-kmg-design.png"/><a/>
-<br />
 <a href="facebook.com/lethienloc1200" > <img align="left" src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"/><a/>
- 
+ <br/>
 ### Languages and Tools:  
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -23,7 +22,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
- 
+ <br />
 
 **Some project i will updating.....😍😍😍**
 <br />
