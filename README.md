@@ -1,23 +1,23 @@
 ### Hi there 👋
-### I'm LocBoy -  👋 -[website]: https://lethienloc1200.github.io
-and
+### I'm LocBoy - 😎😎 -[website]: https://lethienloc1200.github.io
+**and**
 ## I'm a  Developer !!
 
 - 🔭 I'm currently a final year student 🤣
 - 🌱 I’m currently learning everything 🤣
 - 👯 I'm looking for a job in web programming
 - ⚡ Fun fact: I like swimming, walking and play the guitar 
-
+<img align="left" alt="lethienloc1200.github.io" width="200px" src="https://scontent.fdad3-3.fna.fbcdn.net/v/t1.6435-9/128085745_826009727965927_3013310765086759669_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=KotPHDoowcIAX9XQ0RL&_nc_ht=scontent.fdad3-3.fna&oh=7a18fc19b91a513034f8985542fa6248&oe=61C71519" />
 ### Connect with me:
 
-[<img align="left" alt="lethienloc1200.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="lethienloc1200.github.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="lethienloc1200.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][lethienloc1200.github.io]
+[<img align="left" alt="https://www.facebook.com/lethienloc1200" width="22px" src="https://www.wrcnbc.org/wp/wp-content/uploads/2018/11/facebook-icon-vector-png-17.jpg" />][https://www.facebook.com/lethienloc1200]
 
 <br />
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
