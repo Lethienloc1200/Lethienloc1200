@@ -1,6 +1,5 @@
 ### Hi there 👋
-### I'm LocBoy - 😎😎 
-## I'm a  Developer !!
+### I'm LocBoy - 😎😎 and  I'm a  Developer !!
 
 - 🔭 I'm currently a final year student 🤣
 - 🌱 I’m currently learning everything 🤣
@@ -11,12 +10,10 @@
 ### Connect with me:
 <br />
 My website <a  href="lethienloc1200.github.io"><img src="https://img.icons8.com/external-kmg-design-outline-color-kmg-design/30/000000/external-web-internet-marketing-kmg-design-outline-color-kmg-design-4.png"/><a/>
-My facebook <a> <img align="left" src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"/><a/>
-
 <br />
-  
-### Languages and Tools:
-   
+My facebook <a> <img align="left" src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"/><a/>
+<br /> 
+### Languages and Tools:  
 <br />
 <img align="left" width="26px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
