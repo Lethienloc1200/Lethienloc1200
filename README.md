@@ -1,8 +1,8 @@
 ### Hi there 👋
-### I'm LocBoy -  [codeSTACKr][website] 👋 
+### I'm LocBoy -  👋 
 
 [![Website](https://lethienloc1200.github.io)
-[![Facebook Follow]](https://www.facebook.com/lethienloc1200)
+
 
 ## I'm a  Developer !!
 
