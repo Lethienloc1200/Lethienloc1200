@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm LocBoy - 😎😎 and  I'm a  Developer !!
 
-- 🔭 I'm currently a final year student 🤣
+- 🔭 I have 4+ years of experience with web programming 🤣
 - 🌱 I’m currently learning everything 🤣
 - 👯 I'm looking for a job in web programming
 - ⚡ Fun fact: I like swimming, walking and play the guitar 
